@@ -3,4 +3,4 @@ TO run this project locally, you have to follow instruction :
     clone it.
     then copy the project folder into htdoc of your XAMPP server.
     Start the server. The website is listing on default port, you can find it by the url
-    which is  travelling_template_usingPHP
+    which is  localhost/travelling_template_usingPHP
